@@ -10,7 +10,6 @@ System.Console.WriteLine("Введите число B: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите число C: ");
 int numberC = Convert.ToInt32(Console.ReadLine());
-
 int max = numberA;
 
 if (numberA > max ) max = numberA;
